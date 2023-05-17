@@ -11,7 +11,7 @@ import SwiftUI
 struct ZoomApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            Home()
         }
     }
 }

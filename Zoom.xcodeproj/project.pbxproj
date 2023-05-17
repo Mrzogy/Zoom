@@ -11,6 +11,35 @@
 		B79F27332A15185B00BD1151 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B79F27322A15185B00BD1151 /* ContentView.swift */; };
 		B79F27352A15185D00BD1151 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B79F27342A15185D00BD1151 /* Assets.xcassets */; };
 		B79F27382A15185D00BD1151 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B79F27372A15185D00BD1151 /* Preview Assets.xcassets */; };
+		B79F27402A15199800BD1151 /* Home.swift in Sources */ = {isa = PBXBuildFile; fileRef = B79F273F2A15199800BD1151 /* Home.swift */; };
+		B79F27442A151CE700BD1151 /* Onboarding.swift in Sources */ = {isa = PBXBuildFile; fileRef = B79F27432A151CE700BD1151 /* Onboarding.swift */; };
+		B79F27472A15280100BD1151 /* CoustomText.swift in Sources */ = {isa = PBXBuildFile; fileRef = B79F27462A15280100BD1151 /* CoustomText.swift */; };
+		B79F274A2A1528C900BD1151 /* Chicking.swift in Sources */ = {isa = PBXBuildFile; fileRef = B79F27492A1528C900BD1151 /* Chicking.swift */; };
+		B79F274C2A152E8D00BD1151 /* Collobrate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B79F274B2A152E8D00BD1151 /* Collobrate.swift */; };
+		B79F274E2A152F9E00BD1151 /* GetStarted.swift in Sources */ = {isa = PBXBuildFile; fileRef = B79F274D2A152F9E00BD1151 /* GetStarted.swift */; };
+		B79F27522A15325B00BD1151 /* ActivitionEmail.swift in Sources */ = {isa = PBXBuildFile; fileRef = B79F27512A15325B00BD1151 /* ActivitionEmail.swift */; };
+		B79F27582A1541A500BD1151 /* CoustomForm.swift in Sources */ = {isa = PBXBuildFile; fileRef = B79F27572A1541A500BD1151 /* CoustomForm.swift */; };
+		B79F275A2A1542BE00BD1151 /* SignUp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B79F27592A1542BE00BD1151 /* SignUp.swift */; };
+		B79F275C2A15431B00BD1151 /* SignIn.swift in Sources */ = {isa = PBXBuildFile; fileRef = B79F275B2A15431B00BD1151 /* SignIn.swift */; };
+		B79F275E2A15435300BD1151 /* CoustomFormSignIn.swift in Sources */ = {isa = PBXBuildFile; fileRef = B79F275D2A15435300BD1151 /* CoustomFormSignIn.swift */; };
+		B79F27602A15440E00BD1151 /* StartMeeting.swift in Sources */ = {isa = PBXBuildFile; fileRef = B79F275F2A15440E00BD1151 /* StartMeeting.swift */; };
+		B79F27642A15488900BD1151 /* CoustomFormMeeting.swift in Sources */ = {isa = PBXBuildFile; fileRef = B79F27632A15488900BD1151 /* CoustomFormMeeting.swift */; };
+		B79F27662A1549E000BD1151 /* Settings.swift in Sources */ = {isa = PBXBuildFile; fileRef = B79F27652A1549E000BD1151 /* Settings.swift */; };
+		B79F27682A15502100BD1151 /* CoustomSittings.swift in Sources */ = {isa = PBXBuildFile; fileRef = B79F27672A15502100BD1151 /* CoustomSittings.swift */; };
+		B79F276A2A15509000BD1151 /* MettingSettings.swift in Sources */ = {isa = PBXBuildFile; fileRef = B79F27692A15509000BD1151 /* MettingSettings.swift */; };
+		B79F276C2A1550AB00BD1151 /* CoustomMettingSetting.swift in Sources */ = {isa = PBXBuildFile; fileRef = B79F276B2A1550AB00BD1151 /* CoustomMettingSetting.swift */; };
+		B79F276E2A15526E00BD1151 /* Password.swift in Sources */ = {isa = PBXBuildFile; fileRef = B79F276D2A15526E00BD1151 /* Password.swift */; };
+		B79F27742A15614100BD1151 /* Chating.swift in Sources */ = {isa = PBXBuildFile; fileRef = B79F27732A15614100BD1151 /* Chating.swift */; };
+		B79F27772A15638400BD1151 /* GetStartedEmail.swift in Sources */ = {isa = PBXBuildFile; fileRef = B79F27762A15638400BD1151 /* GetStartedEmail.swift */; };
+		B79F27792A15660500BD1151 /* Account.swift in Sources */ = {isa = PBXBuildFile; fileRef = B79F27782A15660500BD1151 /* Account.swift */; };
+		B79F277B2A156B7A00BD1151 /* Calendar.swift in Sources */ = {isa = PBXBuildFile; fileRef = B79F277A2A156B7A00BD1151 /* Calendar.swift */; };
+		B79F277F2A157AF900BD1151 /* MaittingSittings1.swift in Sources */ = {isa = PBXBuildFile; fileRef = B79F277E2A157AF900BD1151 /* MaittingSittings1.swift */; };
+		B79F27812A15855300BD1151 /* Auto.swift in Sources */ = {isa = PBXBuildFile; fileRef = B79F27802A15855300BD1151 /* Auto.swift */; };
+		B79F27832A15860600BD1151 /* AllSettings.swift in Sources */ = {isa = PBXBuildFile; fileRef = B79F27822A15860600BD1151 /* AllSettings.swift */; };
+		B79F27852A1587AB00BD1151 /* VirtualBack.swift in Sources */ = {isa = PBXBuildFile; fileRef = B79F27842A1587AB00BD1151 /* VirtualBack.swift */; };
+		B79F27872A15889500BD1151 /* AspectRatio.swift in Sources */ = {isa = PBXBuildFile; fileRef = B79F27862A15889500BD1151 /* AspectRatio.swift */; };
+		B79F27892A159A7A00BD1151 /* TabHome.swift in Sources */ = {isa = PBXBuildFile; fileRef = B79F27882A159A7A00BD1151 /* TabHome.swift */; };
+		B79F278B2A159FD100BD1151 /* Acounter.swift in Sources */ = {isa = PBXBuildFile; fileRef = B79F278A2A159FD100BD1151 /* Acounter.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +48,35 @@
 		B79F27322A15185B00BD1151 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		B79F27342A15185D00BD1151 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B79F27372A15185D00BD1151 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		B79F273F2A15199800BD1151 /* Home.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Home.swift; sourceTree = "<group>"; };
+		B79F27432A151CE700BD1151 /* Onboarding.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Onboarding.swift; sourceTree = "<group>"; };
+		B79F27462A15280100BD1151 /* CoustomText.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoustomText.swift; sourceTree = "<group>"; };
+		B79F27492A1528C900BD1151 /* Chicking.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Chicking.swift; sourceTree = "<group>"; };
+		B79F274B2A152E8D00BD1151 /* Collobrate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Collobrate.swift; sourceTree = "<group>"; };
+		B79F274D2A152F9E00BD1151 /* GetStarted.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GetStarted.swift; sourceTree = "<group>"; };
+		B79F27512A15325B00BD1151 /* ActivitionEmail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ActivitionEmail.swift; sourceTree = "<group>"; };
+		B79F27572A1541A500BD1151 /* CoustomForm.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoustomForm.swift; sourceTree = "<group>"; };
+		B79F27592A1542BE00BD1151 /* SignUp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignUp.swift; sourceTree = "<group>"; };
+		B79F275B2A15431B00BD1151 /* SignIn.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignIn.swift; sourceTree = "<group>"; };
+		B79F275D2A15435300BD1151 /* CoustomFormSignIn.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoustomFormSignIn.swift; sourceTree = "<group>"; };
+		B79F275F2A15440E00BD1151 /* StartMeeting.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StartMeeting.swift; sourceTree = "<group>"; };
+		B79F27632A15488900BD1151 /* CoustomFormMeeting.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoustomFormMeeting.swift; sourceTree = "<group>"; };
+		B79F27652A1549E000BD1151 /* Settings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Settings.swift; sourceTree = "<group>"; };
+		B79F27672A15502100BD1151 /* CoustomSittings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoustomSittings.swift; sourceTree = "<group>"; };
+		B79F27692A15509000BD1151 /* MettingSettings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MettingSettings.swift; sourceTree = "<group>"; };
+		B79F276B2A1550AB00BD1151 /* CoustomMettingSetting.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoustomMettingSetting.swift; sourceTree = "<group>"; };
+		B79F276D2A15526E00BD1151 /* Password.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Password.swift; sourceTree = "<group>"; };
+		B79F27732A15614100BD1151 /* Chating.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Chating.swift; sourceTree = "<group>"; };
+		B79F27762A15638400BD1151 /* GetStartedEmail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GetStartedEmail.swift; sourceTree = "<group>"; };
+		B79F27782A15660500BD1151 /* Account.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Account.swift; sourceTree = "<group>"; };
+		B79F277A2A156B7A00BD1151 /* Calendar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Calendar.swift; sourceTree = "<group>"; };
+		B79F277E2A157AF900BD1151 /* MaittingSittings1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaittingSittings1.swift; sourceTree = "<group>"; };
+		B79F27802A15855300BD1151 /* Auto.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Auto.swift; sourceTree = "<group>"; };
+		B79F27822A15860600BD1151 /* AllSettings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AllSettings.swift; sourceTree = "<group>"; };
+		B79F27842A1587AB00BD1151 /* VirtualBack.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VirtualBack.swift; sourceTree = "<group>"; };
+		B79F27862A15889500BD1151 /* AspectRatio.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AspectRatio.swift; sourceTree = "<group>"; };
+		B79F27882A159A7A00BD1151 /* TabHome.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabHome.swift; sourceTree = "<group>"; };
+		B79F278A2A159FD100BD1151 /* Acounter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Acounter.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,6 +109,8 @@
 		B79F272F2A15185B00BD1151 /* Zoom */ = {
 			isa = PBXGroup;
 			children = (
+				B79F27482A15284600BD1151 /* View */,
+				B79F27452A1526BF00BD1151 /* Coustom */,
 				B79F27302A15185B00BD1151 /* ZoomApp.swift */,
 				B79F27322A15185B00BD1151 /* ContentView.swift */,
 				B79F27342A15185D00BD1151 /* Assets.xcassets */,
@@ -65,6 +125,49 @@
 				B79F27372A15185D00BD1151 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		B79F27452A1526BF00BD1151 /* Coustom */ = {
+			isa = PBXGroup;
+			children = (
+				B79F27462A15280100BD1151 /* CoustomText.swift */,
+				B79F27572A1541A500BD1151 /* CoustomForm.swift */,
+				B79F275D2A15435300BD1151 /* CoustomFormSignIn.swift */,
+				B79F27632A15488900BD1151 /* CoustomFormMeeting.swift */,
+				B79F27672A15502100BD1151 /* CoustomSittings.swift */,
+				B79F276B2A1550AB00BD1151 /* CoustomMettingSetting.swift */,
+				B79F27822A15860600BD1151 /* AllSettings.swift */,
+				B79F278A2A159FD100BD1151 /* Acounter.swift */,
+			);
+			path = Coustom;
+			sourceTree = "<group>";
+		};
+		B79F27482A15284600BD1151 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				B79F273F2A15199800BD1151 /* Home.swift */,
+				B79F27432A151CE700BD1151 /* Onboarding.swift */,
+				B79F27492A1528C900BD1151 /* Chicking.swift */,
+				B79F274B2A152E8D00BD1151 /* Collobrate.swift */,
+				B79F274D2A152F9E00BD1151 /* GetStarted.swift */,
+				B79F27512A15325B00BD1151 /* ActivitionEmail.swift */,
+				B79F27592A1542BE00BD1151 /* SignUp.swift */,
+				B79F275B2A15431B00BD1151 /* SignIn.swift */,
+				B79F275F2A15440E00BD1151 /* StartMeeting.swift */,
+				B79F27652A1549E000BD1151 /* Settings.swift */,
+				B79F27692A15509000BD1151 /* MettingSettings.swift */,
+				B79F276D2A15526E00BD1151 /* Password.swift */,
+				B79F27732A15614100BD1151 /* Chating.swift */,
+				B79F27762A15638400BD1151 /* GetStartedEmail.swift */,
+				B79F27782A15660500BD1151 /* Account.swift */,
+				B79F277A2A156B7A00BD1151 /* Calendar.swift */,
+				B79F277E2A157AF900BD1151 /* MaittingSittings1.swift */,
+				B79F27802A15855300BD1151 /* Auto.swift */,
+				B79F27842A1587AB00BD1151 /* VirtualBack.swift */,
+				B79F27862A15889500BD1151 /* AspectRatio.swift */,
+				B79F27882A159A7A00BD1151 /* TabHome.swift */,
+			);
+			name = View;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -137,8 +240,37 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B79F278B2A159FD100BD1151 /* Acounter.swift in Sources */,
 				B79F27332A15185B00BD1151 /* ContentView.swift in Sources */,
+				B79F274A2A1528C900BD1151 /* Chicking.swift in Sources */,
+				B79F274E2A152F9E00BD1151 /* GetStarted.swift in Sources */,
+				B79F27402A15199800BD1151 /* Home.swift in Sources */,
+				B79F277B2A156B7A00BD1151 /* Calendar.swift in Sources */,
+				B79F27642A15488900BD1151 /* CoustomFormMeeting.swift in Sources */,
+				B79F27832A15860600BD1151 /* AllSettings.swift in Sources */,
+				B79F27792A15660500BD1151 /* Account.swift in Sources */,
+				B79F27892A159A7A00BD1151 /* TabHome.swift in Sources */,
+				B79F27442A151CE700BD1151 /* Onboarding.swift in Sources */,
+				B79F27472A15280100BD1151 /* CoustomText.swift in Sources */,
+				B79F275E2A15435300BD1151 /* CoustomFormSignIn.swift in Sources */,
+				B79F276E2A15526E00BD1151 /* Password.swift in Sources */,
+				B79F27582A1541A500BD1151 /* CoustomForm.swift in Sources */,
+				B79F275C2A15431B00BD1151 /* SignIn.swift in Sources */,
+				B79F27662A1549E000BD1151 /* Settings.swift in Sources */,
+				B79F27852A1587AB00BD1151 /* VirtualBack.swift in Sources */,
+				B79F27742A15614100BD1151 /* Chating.swift in Sources */,
+				B79F277F2A157AF900BD1151 /* MaittingSittings1.swift in Sources */,
+				B79F27522A15325B00BD1151 /* ActivitionEmail.swift in Sources */,
+				B79F27812A15855300BD1151 /* Auto.swift in Sources */,
+				B79F27602A15440E00BD1151 /* StartMeeting.swift in Sources */,
+				B79F27772A15638400BD1151 /* GetStartedEmail.swift in Sources */,
+				B79F276C2A1550AB00BD1151 /* CoustomMettingSetting.swift in Sources */,
+				B79F27872A15889500BD1151 /* AspectRatio.swift in Sources */,
+				B79F27682A15502100BD1151 /* CoustomSittings.swift in Sources */,
 				B79F27312A15185B00BD1151 /* ZoomApp.swift in Sources */,
+				B79F274C2A152E8D00BD1151 /* Collobrate.swift in Sources */,
+				B79F275A2A1542BE00BD1151 /* SignUp.swift in Sources */,
+				B79F276A2A15509000BD1151 /* MettingSettings.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -275,6 +407,7 @@
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 15.6;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -304,6 +437,7 @@
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 15.6;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
