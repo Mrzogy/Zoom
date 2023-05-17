@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "_Privacy_Not_Included__A_Buyer_s_Guide_for_Connected_Products-removebg-preview.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
